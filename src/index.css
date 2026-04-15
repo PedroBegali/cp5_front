@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+/* Definindo o tema do seu Checkpoint diretamente no CSS (Padrão v4) */
+@theme {
+  --color-background: hsl(48 60% 96%);
+  --color-foreground: hsl(24 14% 16%);
+  --color-card: hsl(48 50% 98%);
+  --color-accent: hsl(8 65% 42%);
+  --color-border: hsl(36 20% 85%);
+  
+  --font-serif: "Newsreader", serif;
+  --font-sans: "Karla", sans-serif;
+}
+
+/* Aplicando o estilo global */
+@layer base {
+  body {
+    background-color: var(--color-background);
+    color: var(--color-foreground);
+    font-family: var(--font-sans);
+  }
+}
