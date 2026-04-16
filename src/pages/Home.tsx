@@ -1,5 +1,5 @@
 // useState e useEffect SEMPRE vêm do "react"
-import { useState, useEffect } from "react";
+import { useState } from "react";
 // Importamos o JSON que criamos no Passo 1
 import receitasData from "../data/receitas.json";
 import Card from "../components/Card";
@@ -14,14 +14,9 @@ interface Recipe {
 }
 
 const Home = () => {
-  const [receitas, setReceitas] = useState<Recipe[]>([]);
+  const [receitas] = useState<Recipe[]>(receitasData);
   const [busca, setBusca] = useState("");
   const [selecionada, setSelecionada] = useState<Recipe | null>(null);
-
-  useEffect(() => {
-    // Carregamos os dados do JSON para o estado
-    setReceitas(receitasData);
-  }, []);
 
   const filtradas = receitas.filter(r => 
     r.nome.toLowerCase().includes(busca.toLowerCase())
