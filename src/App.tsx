@@ -7,15 +7,10 @@ function App() {
   return (
     <BrowserRouter>
       <Routes>
-        {/* O Layout "abraça" as rotas filhas */}
         <Route path="/" element={<Layout />}>
-          
-          {/* Rota inicial (Index) mostra a Home */}
           <Route index element={<Home />} />
-          
-          {/* Rota /sugerir mostra o formulário com useForm */}
+
           <Route path="sugerir" element={<Sugestao />} />
-          
         </Route>
       </Routes>
     </BrowserRouter>

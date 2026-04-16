@@ -1,0 +1,611 @@
+[
+  {
+    "id": 1,
+    "nome": "Lasanha à Bolonhesa",
+    "categoria": "Pratos Principais",
+    "ingredientes": [
+      "Massa de lasanha",
+      "Carne moída",
+      "Queijo muçarela",
+      "Molho de tomate"
+    ],
+    "modoPreparo": "Monte em camadas alternando massa, molho e queijo. Asse por 40 minutos.",
+    "imagem": "/images/lasanha.jpg"
+  },
+  {
+    "id": 2,
+    "nome": "Strogonoff de Frango",
+    "categoria": "Pratos Principais",
+    "ingredientes": [
+      "Peito de frango",
+      "Creme de leite",
+      "Ketchup",
+      "Champignon"
+    ],
+    "modoPreparo": "Doure o frango, adicione os molhos e finalize com creme de leite.",
+    "imagem": "/images/strogonoff.jpg"
+  },
+  {
+    "id": 3,
+    "nome": "Feijoada Completa",
+    "categoria": "Pratos Principais",
+    "ingredientes": ["Feijão preto", "Carnes salgadas", "Linguiça", "Laranja"],
+    "modoPreparo": "Cozinhe as carnes dessalgadas com o feijão até o caldo engrossar.",
+    "imagem": "/images/feijoada.jpg"
+  },
+  {
+    "id": 4,
+    "nome": "Moqueca de Peixe",
+    "categoria": "Pratos Principais",
+    "ingredientes": [
+      "Peixe em postas",
+      "Leite de coco",
+      "Azeite de dendê",
+      "Pimentão"
+    ],
+    "modoPreparo": "Cozinhe o peixe no caldo de coco, dendê e vegetais por 20 minutos.",
+    "imagem": "/images/moqueca.jpg"
+  },
+  {
+    "id": 5,
+    "nome": "Risoto de Funghi",
+    "categoria": "Pratos Principais",
+    "ingredientes": [
+      "Arroz arbóreo",
+      "Funghi secci",
+      "Vinho branco",
+      "Parmesão"
+    ],
+    "modoPreparo": "Hidrate o funghi, refogue com o arroz e adicione caldo aos poucos.",
+    "imagem": "/images/risoto.jpg"
+  },
+  {
+    "id": 6,
+    "nome": "Bife à Parmegiana",
+    "categoria": "Pratos Principais",
+    "ingredientes": [
+      "Bife empanado",
+      "Molho de tomate",
+      "Queijo muçarela",
+      "Presunto"
+    ],
+    "modoPreparo": "Frite o bife, cubra com presunto, queijo e molho, e leve ao forno para gratinar.",
+    "imagem": "/images/parmegiana.jpg"
+  },
+  {
+    "id": 7,
+    "nome": "Frango Grelhado com Legumes",
+    "categoria": "Pratos Principais",
+    "ingredientes": [
+      "4 filés de peito de frango",
+      "2 abobrinhas fatiadas",
+      "1 berinjela fatiada",
+      "2 pimentões coloridos",
+      "3 colheres de azeite",
+      "Alecrim fresco",
+      "Sal e pimenta a gosto"
+    ],
+    "modoPreparo": "Tempere o frango com sal, pimenta e limão. Grelhe o frango em fogo médio por 6 minutos de cada lado. Tempere os legumes com azeite e grelhe-os até ficarem dourados. Monte o prato com o frango e os legumes.",
+    "tempoPreparo": "50 min",
+    "porcoes": "4 porções",
+    "imagem": "/images/frango-grelhado.jpg"
+  },
+  {
+    "id": 8,
+    "nome": "Escondidinho de Carne Seca",
+    "categoria": "Pratos Principais",
+    "ingredientes": [
+      "Mandioca",
+      "Carne seca desfiada",
+      "Manteiga",
+      "Queijo coalho"
+    ],
+    "modoPreparo": "Faça um purê, recheie com a carne seca e asse para gratinar o queijo.",
+    "imagem": "/images/escondidinho.jpg"
+  },
+  {
+    "id": 9,
+    "nome": "Arroz de Forno com Frango",
+    "categoria": "Pratos Secundários",
+    "ingredientes": [
+      "4 xícaras de arroz cozido",
+      "2 xícaras de frango desfiado",
+      "200g de mussarela ralada",
+      "1 xícara de molho de tomate"
+    ],
+    "modoPreparo": "Misture o arroz, frango e molho. Coloque em um refratário, cubra com mussarela e leve ao forno a 180°C por 25 minutos até gratinar.",
+    "tempoPreparo": "40 min",
+    "porcoes": "6 porções",
+    "imagem": "/images/arroz-forno.jpg"
+  },
+  {
+    "id": 10,
+    "nome": "Frango Assado com Batatas",
+    "categoria": "Pratos Principais",
+    "ingredientes": ["Frango inteiro", "Batatas", "Ervas finas", "Alho"],
+    "modoPreparo": "Tempere o frango e as batatas, leve ao forno médio por 1h30.",
+    "imagem": "/images/frango-assado.jpg"
+  },
+  {
+    "id": 11,
+    "nome": "Nhoque ao Sugo",
+    "categoria": "Pratos Principais",
+    "ingredientes": [
+      "Batata",
+      "Farinha de trigo",
+      "Molho de tomate",
+      "Queijo ralado"
+    ],
+    "modoPreparo": "Faça a massa, cozinhe até boiar na água e sirva com molho.",
+    "imagem": "/images/nhoque.jpg"
+  },
+  {
+    "id": 12,
+    "nome": "Bacalhoada",
+    "categoria": "Pratos Principais",
+    "ingredientes": ["Bacalhau em lascas", "Batata", "Cebola", "Ovo cozido"],
+    "modoPreparo": "Asse o bacalhau com as batatas, cebola, e decore com ovos e azeitonas.",
+    "imagem": "/images/bacalhoada.jpg"
+  },
+  {
+    "id": 13,
+    "nome": "Bobó de Camarão",
+    "categoria": "Pratos Principais",
+    "ingredientes": ["Camarão", "Mandioca", "Leite de coco", "Azeite de dendê"],
+    "modoPreparo": "Refogue o camarão e misture com o creme de mandioca, coco e dendê.",
+    "imagem": "/images/bobo.jpg"
+  },
+  {
+    "id": 14,
+    "nome": "Costela no Bafo",
+    "categoria": "Pratos Principais",
+    "ingredientes": ["Costela bovina", "Sal grosso", "Cebola", "Alho"],
+    "modoPreparo": "Asse a costela lentamente embrulhada em papel alumínio por 4 horas.",
+    "imagem": "/images/costela.jpg"
+  },
+  {
+    "id": 15,
+    "nome": "Panqueca de Carne",
+    "categoria": "Pratos Principais",
+    "ingredientes": [
+      "Massa líquida",
+      "Carne moída",
+      "Molho de tomate",
+      "Queijo"
+    ],
+    "modoPreparo": "Faça os discos, recheie, enrole e asse com molho por cima.",
+    "imagem": "/images/panqueca.jpg"
+  },
+  {
+    "id": 16,
+    "nome": "Torta de Frango",
+    "categoria": "Pratos Principais",
+    "ingredientes": ["Farinha", "Oleo", "Frango desfiado", "Milho"],
+    "modoPreparo": "Bata a massa, coloque metade na forma, recheie e cubra. Asse por 45 min.",
+    "imagem": "/images/torta-frango.jpg"
+  },
+  {
+    "id": 17,
+    "nome": "Virado à Paulista",
+    "categoria": "Pratos Principais",
+    "ingredientes": [
+      "Tutu de feijão",
+      "Bisteca",
+      "Ovo frito",
+      "Couve",
+      "Banana milanesa"
+    ],
+    "modoPreparo": "Prepare os acompanhamentos e sirva tudo no mesmo prato.",
+    "imagem": "/images/virado.jpg"
+  },
+  {
+    "id": 18,
+    "nome": "Salmão Grelhado",
+    "categoria": "Pratos Principais",
+    "ingredientes": ["Filé de salmão", "Limão", "Azeite", "Sal"],
+    "modoPreparo": "Tempere o salmão e grelhe por 5 minutos de cada lado.",
+    "imagem": "/images/salmao.jpg"
+  },
+  {
+    "id": 19,
+    "nome": "Picadinho de Carne",
+    "categoria": "Pratos Principais",
+    "ingredientes": ["Carne em cubos", "Cenoura", "Batata", "Caldo de carne"],
+    "modoPreparo": "Refogue a carne, junte os legumes e o caldo e cozinhe na pressão.",
+    "imagem": "/images/picadinho.jpg"
+  },
+  {
+    "id": 20,
+    "nome": "Hambúrguer Artesanal",
+    "categoria": "Pratos Principais",
+    "ingredientes": [
+      "Carne moída (blend)",
+      "Pão brioche",
+      "Queijo cheddar",
+      "Bacon"
+    ],
+    "modoPreparo": "Grelhe o blend de carnes, derreta o queijo e monte no pão tostado.",
+    "imagem": "/images/hamburguer.jpg"
+  },
+
+  {
+    "id": 21,
+    "nome": "Salada Caesar",
+    "categoria": "Saladas",
+    "ingredientes": [
+      "1 pé de alface romana",
+      "100g de croutons",
+      "Peito de frango grelhado",
+      "Molho Caesar"
+    ],
+    "modoPreparo": "Rasgue a alface, adicione o frango em tiras e os croutons. Regue com o molho Caesar e finalize com parmesão em lascas.",
+    "tempoPreparo": "20 min",
+    "porcoes": "2 porções",
+    "imagem": "/images/salada-caesar.jpg"
+  },
+  {
+    "id": 22,
+    "nome": "Salada Caprese",
+    "categoria": "Saladas",
+    "ingredientes": ["Tomate", "Muçarela de búfala", "Manjericão", "Azeite"],
+    "modoPreparo": "Alterne fatias de tomate e queijo, tempere com manjericão e azeite.",
+    "imagem": "/images/caprese.jpg"
+  },
+  {
+    "id": 23,
+    "nome": "Salada Grega",
+    "categoria": "Saladas",
+    "ingredientes": [
+      "Pepino",
+      "Tomate",
+      "Cebola roxa",
+      "Queijo feta",
+      "Azeitona preta"
+    ],
+    "modoPreparo": "Corte os vegetais em cubos, adicione o queijo e tempere com azeite e orégano.",
+    "imagem": "/images/grega.jpg"
+  },
+  {
+    "id": 24,
+    "nome": "Salada Tropical",
+    "categoria": "Saladas",
+    "ingredientes": ["Mix de folhas", "Manga", "Morango", "Castanhas"],
+    "modoPreparo": "Misture as folhas com as frutas fatiadas e salpique castanhas.",
+    "imagem": "/images/tropical.jpg"
+  },
+  {
+    "id": 25,
+    "nome": "Salada de Maionese",
+    "categoria": "Saladas",
+    "ingredientes": ["Batata", "Cenoura", "Vagem", "Maionese"],
+    "modoPreparo": "Cozinhe os legumes em cubos, espere esfriar e misture com maionese.",
+    "imagem": "/images/maionese.jpg"
+  },
+  {
+    "id": 26,
+    "nome": "Salada de Grão de Bico",
+    "categoria": "Saladas",
+    "ingredientes": ["Grão de bico", "Pimentão", "Cebola", "Salsa"],
+    "modoPreparo": "Misture o grão de bico cozido com os vegetais picados e tempere a gosto.",
+    "imagem": "/images/grao-de-bico.jpg"
+  },
+  {
+    "id": 27,
+    "nome": "Coleslaw (Repolho)",
+    "categoria": "Saladas",
+    "ingredientes": ["Repolho verde", "Cenoura ralada", "Maionese", "Vinagre"],
+    "modoPreparo": "Fatie o repolho fino, misture com cenoura e envolva no molho de maionese.",
+    "imagem": "/images/coleslaw.jpg"
+  },
+  {
+    "id": 28,
+    "nome": "Salada Niçoise",
+    "categoria": "Saladas",
+    "ingredientes": ["Atum", "Vagem", "Ovo cozido", "Batata bolinha"],
+    "modoPreparo": "Disponha os ingredientes cozidos sobre uma cama de alface e tempere.",
+    "imagem": "/images/nicoise.jpg"
+  },
+  {
+    "id": 29,
+    "nome": "Salada de Beterraba",
+    "categoria": "Saladas",
+    "ingredientes": ["Beterraba", "Laranja", "Azeite", "Sal"],
+    "modoPreparo": "Cozinhe e corte a beterraba, misture com gomos de laranja.",
+    "imagem": "/images/beterraba.jpg"
+  },
+  {
+    "id": 30,
+    "nome": "Salada Waldorf",
+    "categoria": "Saladas",
+    "ingredientes": ["Maçã verde", "Aipo", "Nozes", "Iogurte natural"],
+    "modoPreparo": "Corte tudo em cubos e misture com o iogurte.",
+    "imagem": "/images/waldorf.jpg"
+  },
+
+  {
+    "id": 31,
+    "nome": "Pudim de Leite",
+    "categoria": "Sobremesas",
+    "ingredientes": ["Leite condensado", "Leite", "Ovos", "Açúcar (caramelo)"],
+    "modoPreparo": "Faça a calda, bata os líquidos, asse em banho-maria e desenforme frio.",
+    "imagem": "/images/pudim.jpg"
+  },
+  {
+    "id": 32,
+    "nome": "Brigadeiro Gourmet",
+    "categoria": "Sobremesas",
+    "ingredientes": [
+      "Leite condensado",
+      "Chocolate em pó",
+      "Manteiga",
+      "Granulado"
+    ],
+    "modoPreparo": "Cozinhe até soltar do fundo da panela, enrole e passe no granulado.",
+    "imagem": "/images/brigadeiro.jpg"
+  },
+  {
+    "id": 33,
+    "nome": "Mousse de Maracujá",
+    "categoria": "Sobremesas",
+    "ingredientes": ["Leite condensado", "Creme de leite", "Suco de maracujá"],
+    "modoPreparo": "Bata tudo no liquidificador e leve à geladeira por 4 horas.",
+    "imagem": "/images/mousse-maracuja.jpg"
+  },
+  {
+    "id": 34,
+    "nome": "Bolo de Cenoura",
+    "categoria": "Sobremesas",
+    "ingredientes": ["Cenoura", "Óleo", "Ovos", "Farinha", "Chocolate"],
+    "modoPreparo": "Bata os líquidos com a cenoura, misture os secos, asse e cubra com chocolate.",
+    "imagem": "/images/bolo-cenoura.jpg"
+  },
+  {
+    "id": 35,
+    "nome": "Torta de Limão",
+    "categoria": "Sobremesas",
+    "ingredientes": [
+      "Biscoito maisena",
+      "Manteiga",
+      "Leite condensado",
+      "Limão"
+    ],
+    "modoPreparo": "Faça a base com biscoito, asse, coloque o creme de limão e leve gelar.",
+    "imagem": "/images/torta-limao.jpg"
+  },
+  {
+    "id": 36,
+    "nome": "Pavê de Chocolate",
+    "categoria": "Sobremesas",
+    "ingredientes": [
+      "Biscoito champanhe",
+      "Leite condensado",
+      "Chocolate",
+      "Creme de leite"
+    ],
+    "modoPreparo": "Alterne camadas de creme e biscoito umedecido, finalize com chocolate.",
+    "imagem": "/images/pave.jpg"
+  },
+  {
+    "id": 37,
+    "nome": "Brownie",
+    "categoria": "Sobremesas",
+    "ingredientes": [
+      "Chocolate meio amargo",
+      "Manteiga",
+      "Açúcar",
+      "Farinha",
+      "Ovos"
+    ],
+    "modoPreparo": "Derreta chocolate e manteiga, misture o resto e asse por 25 minutos.",
+    "imagem": "/images/brownie.jpg"
+  },
+  {
+    "id": 38,
+    "nome": "Tiramisu",
+    "categoria": "Sobremesas",
+    "ingredientes": [
+      "Queijo mascarpone",
+      "Café forte",
+      "Biscoito champanhe",
+      "Cacau"
+    ],
+    "modoPreparo": "Bata o creme, monte com biscoitos embebidos no café e polvilhe cacau.",
+    "imagem": "/images/tiramisu.jpg"
+  },
+  {
+    "id": 39,
+    "nome": "Quindim",
+    "categoria": "Sobremesas",
+    "ingredientes": ["Gemas", "Açúcar", "Coco ralado", "Manteiga"],
+    "modoPreparo": "Misture os ingredientes, coloque em forminhas untadas e asse em banho-maria.",
+    "imagem": "/images/quindim.jpg"
+  },
+  {
+    "id": 40,
+    "nome": "Cheesecake de Frutas",
+    "categoria": "Sobremesas",
+    "ingredientes": ["Cream cheese", "Biscoito", "Frutas vermelhas", "Açúcar"],
+    "modoPreparo": "Faça a base, bata o creme, asse e cubra com geleia de frutas.",
+    "imagem": "/images/cheesecake.jpg"
+  },
+  {
+    "id": 41,
+    "nome": "Sorvete Caseiro",
+    "categoria": "Sobremesas",
+    "ingredientes": [
+      "Leite condensado",
+      "Creme de leite fresco",
+      "Essência de baunilha"
+    ],
+    "modoPreparo": "Bata o creme em ponto de chantilly e misture com o leite condensado. Congele.",
+    "imagem": "/images/sorvete.jpg"
+  },
+  {
+    "id": 42,
+    "nome": "Cocada de Forno",
+    "categoria": "Sobremesas",
+    "ingredientes": [
+      "Coco ralado fresco",
+      "Leite condensado",
+      "Ovos",
+      "Manteiga"
+    ],
+    "modoPreparo": "Misture tudo, coloque em um refratário e asse até dourar.",
+    "imagem": "/images/cocada.jpg"
+  },
+  {
+    "id": 43,
+    "nome": "Arroz Doce",
+    "categoria": "Sobremesas",
+    "ingredientes": ["Arroz", "Leite", "Açúcar", "Canela em pau"],
+    "modoPreparo": "Cozinhe o arroz no leite com açúcar até ficar cremoso. Salpique canela.",
+    "imagem": "/images/arroz-doce.jpg"
+  },
+  {
+    "id": 44,
+    "nome": "Canjica",
+    "categoria": "Sobremesas",
+    "ingredientes": [
+      "Milho para canjica",
+      "Leite",
+      "Leite de coco",
+      "Amendoim"
+    ],
+    "modoPreparo": "Cozinhe a canjica, adicione os leites e ferva até engrossar.",
+    "imagem": "/images/canjica.jpg"
+  },
+  {
+    "id": 45,
+    "nome": "Manjar de Coco",
+    "categoria": "Sobremesas",
+    "ingredientes": ["Leite", "Amido de milho", "Leite de coco", "Ameixas"],
+    "modoPreparo": "Cozinhe o creme de coco, coloque na forma e sirva com calda de ameixa.",
+    "imagem": "/images/manjar.jpg"
+  },
+  {
+    "id": 46,
+    "nome": "Petit Gâteau",
+    "categoria": "Sobremesas",
+    "ingredientes": ["Chocolate", "Manteiga", "Ovos", "Farinha"],
+    "modoPreparo": "Asse em forno alto por exatos 7 minutos para o centro ficar líquido.",
+    "imagem": "/images/petit-gateau.jpg"
+  },
+  {
+    "id": 47,
+    "nome": "Churros",
+    "categoria": "Sobremesas",
+    "ingredientes": ["Farinha", "Água", "Doce de leite", "Açúcar com canela"],
+    "modoPreparo": "Cozinhe a massa, frite, passe na canela e recheie.",
+    "imagem": "/images/churros.jpg"
+  },
+  {
+    "id": 48,
+    "nome": "Torta de Maçã",
+    "categoria": "Sobremesas",
+    "ingredientes": ["Farinha", "Manteiga", "Maçãs", "Canela"],
+    "modoPreparo": "Forre a assadeira com a massa, recheie com as maçãs e asse.",
+    "imagem": "/images/torta-maca.jpg"
+  },
+  {
+    "id": 49,
+    "nome": "Beijinho",
+    "categoria": "Sobremesas",
+    "ingredientes": ["Leite condensado", "Coco ralado", "Manteiga", "Cravos"],
+    "modoPreparo": "Cozinhe até desgrudar da panela, enrole e decore com cravo.",
+    "imagem": "/images/beijinho.jpg"
+  },
+  {
+    "id": 50,
+    "nome": "Goiabada com Queijo (Romeu e Julieta)",
+    "categoria": "Sobremesas",
+    "ingredientes": ["Queijo minas frescal", "Goiabada cascão"],
+    "modoPreparo": "Fatie o queijo e a goiabada. Monte as fatias juntas.",
+    "imagem": "/images/romeu-julieta.jpg"
+  },
+
+  {
+    "id": 51,
+    "nome": "Caipirinha Clássica",
+    "categoria": "Bebidas",
+    "ingredientes": ["Cachaça", "Limão taiti", "Açúcar", "Gelo"],
+    "modoPreparo": "Amasse o limão com açúcar no copo, adicione gelo e cachaça.",
+    "imagem": "/images/caipirinha.jpg"
+  },
+  {
+    "id": 52,
+    "nome": "Suco Verde",
+    "categoria": "Bebidas",
+    "ingredientes": ["Couve", "Maçã verde", "Gengibre", "Limão"],
+    "modoPreparo": "Bata tudo no liquidificador com água gelada e coe.",
+    "imagem": "/images/suco-verde.jpg"
+  },
+  {
+    "id": 53,
+    "nome": "Limonada Suíça",
+    "categoria": "Bebidas",
+    "ingredientes": ["Limão com casca", "Leite condensado", "Água", "Gelo"],
+    "modoPreparo": "Bata rapidamente para não amargar, coe e sirva.",
+    "imagem": "/images/limonada.jpg"
+  },
+  {
+    "id": 54,
+    "nome": "Vitamina de Banana",
+    "categoria": "Bebidas",
+    "ingredientes": ["Banana", "Leite", "Aveia", "Mel"],
+    "modoPreparo": "Bata todos os ingredientes no liquidificador.",
+    "imagem": "/images/vitamina.jpg"
+  },
+  {
+    "id": 55,
+    "nome": "Chá Gelado de Pêssego",
+    "categoria": "Bebidas",
+    "ingredientes": ["Chá preto", "Pêssego em calda", "Gelo"],
+    "modoPreparo": "Faça o chá, deixe esfriar e misture com a calda e pedaços de pêssego.",
+    "imagem": "/images/cha-gelado.jpg"
+  },
+  {
+    "id": 56,
+    "nome": "Cappuccino Cremoso",
+    "categoria": "Bebidas",
+    "ingredientes": ["Café solúvel", "Leite em pó", "Cacau em pó", "Canela"],
+    "modoPreparo": "Misture os pós e adicione água quente quando for beber.",
+    "imagem": "/images/cappuccino.jpg"
+  },
+  {
+    "id": 57,
+    "nome": "Piña Colada",
+    "categoria": "Bebidas",
+    "ingredientes": ["Rum", "Suco de abacaxi", "Leite de coco", "Gelo"],
+    "modoPreparo": "Bata tudo na coqueteleira ou liquidificador.",
+    "imagem": "/images/pina-colada.jpg"
+  },
+  {
+    "id": 58,
+    "nome": "Água Saborizada",
+    "categoria": "Bebidas",
+    "ingredientes": ["Água com gás", "Hortelã", "Rodelas de limão", "Morango"],
+    "modoPreparo": "Coloque as frutas e ervas na água e deixe descansar por 15 minutos.",
+    "imagem": "/images/agua-saborizada.jpg"
+  },
+  {
+    "id": 59,
+    "nome": "Milkshake de Morango",
+    "categoria": "Bebidas",
+    "ingredientes": ["Sorvete de morango", "Leite", "Calda de morango"],
+    "modoPreparo": "Bata o sorvete com pouco leite, decore o copo com calda.",
+    "imagem": "/images/milkshake.jpg"
+  },
+  {
+    "id": 60,
+    "nome": "Chocolate Quente",
+    "categoria": "Bebidas",
+    "ingredientes": [
+      "Leite",
+      "Chocolate em pó",
+      "Creme de leite",
+      "Amido de milho"
+    ],
+    "modoPreparo": "Ferva o leite com amido e chocolate, desligue e adicione creme de leite.",
+    "imagem": "/images/chocolate-quente.jpg"
+  }
+]
