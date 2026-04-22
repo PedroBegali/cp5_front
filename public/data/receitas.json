@@ -4,12 +4,12 @@
     "nome": "Lasanha à Bolonhesa",
     "categoria": "Pratos Principais",
     "ingredientes": [
-      "Massa de lasanha",
-      "Carne moída",
-      "Queijo muçarela",
-      "Molho de tomate"
+      "500g de Massa de lasanha",
+      "600g de Carne moída",
+      "400g de Queijo muçarela fatiado",
+      "600g de Molho de tomate"
     ],
-    "modoPreparo": "Monte em camadas alternando massa, molho e queijo. Asse por 40 minutos.",
+    "modoPreparo": "Refogue a carne moída e misture ao molho de tomate. Em um refratário, monte em camadas alternando massa, molho e queijo. Cubra com papel alumínio e asse em forno preaquecido a 180°C por 40 minutos. Retire o alumínio nos últimos 10 minutos para gratinar.",
     "imagem": "/images/lasanha.jpg"
   },
   {
@@ -17,20 +17,25 @@
     "nome": "Strogonoff de Frango",
     "categoria": "Pratos Principais",
     "ingredientes": [
-      "Peito de frango",
-      "Creme de leite",
-      "Ketchup",
-      "Champignon"
+      "500g de Peito de frango em cubos",
+      "1 lata (300g) de Creme de leite",
+      "3 colheres de sopa de Ketchup",
+      "150g de Champignon fatiado"
     ],
-    "modoPreparo": "Doure o frango, adicione os molhos e finalize com creme de leite.",
+    "modoPreparo": "Em uma panela em fogo médio (aprox. 180°C), doure o frango por 10 minutos. Adicione o ketchup e o champignon. Abaixe o fogo, cozinhe por mais 5 minutos, desligue e incorpore o creme de leite sem deixar ferver. Tempo total de preparo: 20 minutos.",
     "imagem": "/images/strogonoff.jpg"
   },
   {
     "id": 3,
     "nome": "Feijoada Completa",
     "categoria": "Pratos Principais",
-    "ingredientes": ["Feijão preto", "Carnes salgadas", "Linguiça", "Laranja"],
-    "modoPreparo": "Cozinhe as carnes dessalgadas com o feijão até o caldo engrossar.",
+    "ingredientes": [
+      "500g de Feijão preto",
+      "800g de Carnes salgadas (carne seca, lombo, costelinha)",
+      "300g de Linguiça calabresa fatiada",
+      "2 Laranjas médias"
+    ],
+    "modoPreparo": "Dessalgue as carnes um dia antes. Na panela de pressão (temperatura interna de aprox. 120°C), cozinhe o feijão com as carnes duras por 30 minutos. Adicione as carnes macias e a linguiça e cozinhe por mais 20 minutos sem pressão até o caldo engrossar. Sirva com rodelas de laranja.",
     "imagem": "/images/feijoada.jpg"
   },
   {
@@ -38,12 +43,12 @@
     "nome": "Moqueca de Peixe",
     "categoria": "Pratos Principais",
     "ingredientes": [
-      "Peixe em postas",
-      "Leite de coco",
-      "Azeite de dendê",
-      "Pimentão"
+      "800g de Peixe em postas (cação ou robalo)",
+      "200ml de Leite de coco",
+      "3 colheres de sopa de Azeite de dendê",
+      "2 Pimentões (1 vermelho, 1 amarelo) em rodelas"
     ],
-    "modoPreparo": "Cozinhe o peixe no caldo de coco, dendê e vegetais por 20 minutos.",
+    "modoPreparo": "Em uma panela de barro ou de fundo grosso em fogo médio (180°C), faça uma cama com os vegetais. Acomode o peixe, adicione o leite de coco e o dendê. Tampe e deixe cozinhar por 20 minutos sem mexer para não desmanchar as postas.",
     "imagem": "/images/moqueca.jpg"
   },
   {
@@ -51,12 +56,12 @@
     "nome": "Risoto de Funghi",
     "categoria": "Pratos Principais",
     "ingredientes": [
-      "Arroz arbóreo",
-      "Funghi secci",
-      "Vinho branco",
-      "Parmesão"
+      "300g de Arroz arbóreo",
+      "50g de Funghi secci",
+      "100ml de Vinho branco seco",
+      "100g de Parmesão ralado"
     ],
-    "modoPreparo": "Hidrate o funghi, refogue com o arroz e adicione caldo aos poucos.",
+    "modoPreparo": "Hidrate o funghi em água quente por 20 minutos. Em fogo médio (150°C), refogue o arroz, adicione o vinho e deixe evaporar. Acrescente o caldo do funghi aos poucos, mexendo sempre, por cerca de 18 a 20 minutos. Finalize com manteiga e parmesão.",
     "imagem": "/images/risoto.jpg"
   },
   {
@@ -64,12 +69,12 @@
     "nome": "Bife à Parmegiana",
     "categoria": "Pratos Principais",
     "ingredientes": [
-      "Bife empanado",
-      "Molho de tomate",
-      "Queijo muçarela",
-      "Presunto"
+      "4 Bifes empanados (alcatra ou contrafilé)",
+      "300g de Molho de tomate",
+      "200g de Queijo muçarela fatiado",
+      "150g de Presunto fatiado"
     ],
-    "modoPreparo": "Frite o bife, cubra com presunto, queijo e molho, e leve ao forno para gratinar.",
+    "modoPreparo": "Frite os bifes empanados em óleo a 170°C por 5 minutos de cada lado. Escorra e coloque em uma assadeira. Cubra com presunto, queijo e o molho de tomate. Leve ao forno preaquecido a 200°C por 15 minutos até o queijo gratinar borbulhar.",
     "imagem": "/images/parmegiana.jpg"
   },
   {
@@ -77,16 +82,16 @@
     "nome": "Frango Grelhado com Legumes",
     "categoria": "Pratos Principais",
     "ingredientes": [
-      "4 filés de peito de frango",
+      "4 filés de peito de frango (aprox. 600g)",
       "2 abobrinhas fatiadas",
       "1 berinjela fatiada",
-      "2 pimentões coloridos",
-      "3 colheres de azeite",
-      "Alecrim fresco",
-      "Sal e pimenta a gosto"
+      "2 pimentões coloridos fatiados",
+      "3 colheres de sopa de azeite",
+      "1 ramo de alecrim fresco",
+      "Sal e pimenta do reino a gosto"
     ],
-    "modoPreparo": "Tempere o frango com sal, pimenta e limão. Grelhe o frango em fogo médio por 6 minutos de cada lado. Tempere os legumes com azeite e grelhe-os até ficarem dourados. Monte o prato com o frango e os legumes.",
-    "tempoPreparo": "50 min",
+    "modoPreparo": "Tempere o frango com sal, pimenta e limão. Aqueça uma grelha a 200°C e grelhe o frango por 6 minutos de cada lado. Na mesma grelha, tempere os legumes com azeite e doure-os por 10 minutos. Monte o prato em seguida. Tempo total: 25 min.",
+    "tempoPreparo": "25 min",
     "porcoes": "4 porções",
     "imagem": "/images/frango-grelhado.jpg"
   },
@@ -95,12 +100,12 @@
     "nome": "Escondidinho de Carne Seca",
     "categoria": "Pratos Principais",
     "ingredientes": [
-      "Mandioca",
-      "Carne seca desfiada",
-      "Manteiga",
-      "Queijo coalho"
+      "1kg de Mandioca cozida",
+      "500g de Carne seca dessalgada e desfiada",
+      "2 colheres de sopa de Manteiga",
+      "150g de Queijo coalho ralado"
     ],
-    "modoPreparo": "Faça um purê, recheie com a carne seca e asse para gratinar o queijo.",
+    "modoPreparo": "Amasse a mandioca com a manteiga para fazer um purê. Em um refratário, faça uma camada de purê, recheie com a carne seca refogada e cubra com o restante do purê. Finalize com queijo coalho e asse a 200°C por 20 minutos até dourar.",
     "imagem": "/images/escondidinho.jpg"
   },
   {
@@ -108,13 +113,13 @@
     "nome": "Arroz de Forno com Frango",
     "categoria": "Pratos Secundários",
     "ingredientes": [
-      "4 xícaras de arroz cozido",
-      "2 xícaras de frango desfiado",
-      "200g de mussarela ralada",
-      "1 xícara de molho de tomate"
+      "4 xícaras de Arroz cozido",
+      "2 xícaras de Frango desfiado temperado",
+      "200g de Mussarela ralada",
+      "1 xícara (240ml) de Molho de tomate"
     ],
-    "modoPreparo": "Misture o arroz, frango e molho. Coloque em um refratário, cubra com mussarela e leve ao forno a 180°C por 25 minutos até gratinar.",
-    "tempoPreparo": "40 min",
+    "modoPreparo": "Misture o arroz, o frango desfiado e o molho de tomate em uma tigela. Transfira para um refratário, cubra uniformemente com a mussarela ralada e leve ao forno preaquecido a 180°C por 25 minutos até o queijo derreter e gratinar.",
+    "tempoPreparo": "25 min",
     "porcoes": "6 porções",
     "imagem": "/images/arroz-forno.jpg"
   },
@@ -122,8 +127,13 @@
     "id": 10,
     "nome": "Frango Assado com Batatas",
     "categoria": "Pratos Principais",
-    "ingredientes": ["Frango inteiro", "Batatas", "Ervas finas", "Alho"],
-    "modoPreparo": "Tempere o frango e as batatas, leve ao forno médio por 1h30.",
+    "ingredientes": [
+      "1 Frango inteiro limpo (aprox. 1,5kg)",
+      "6 Batatas médias cortadas ao meio",
+      "2 colheres de sopa de Ervas finas",
+      "4 dentes de Alho amassados"
+    ],
+    "modoPreparo": "Tempere o frango e as batatas com alho, ervas, sal e azeite. Coloque em uma assadeira, cubra com alumínio e asse em forno a 200°C por 1 hora. Retire o alumínio e deixe por mais 30 minutos a 220°C para dourar a pele.",
     "imagem": "/images/frango-assado.jpg"
   },
   {
@@ -131,36 +141,51 @@
     "nome": "Nhoque ao Sugo",
     "categoria": "Pratos Principais",
     "ingredientes": [
-      "Batata",
-      "Farinha de trigo",
-      "Molho de tomate",
-      "Queijo ralado"
+      "1kg de Batata cozida e espremida",
+      "200g de Farinha de trigo",
+      "400g de Molho de tomate",
+      "100g de Queijo parmesão ralado"
     ],
-    "modoPreparo": "Faça a massa, cozinhe até boiar na água e sirva com molho.",
+    "modoPreparo": "Misture a batata fria com a farinha até formar uma massa macia. Corte os nhoques e cozinhe em água fervente (100°C) até boiarem (cerca de 3 minutos). Retire com escumadeira, cubra com o molho quente e polvilhe queijo ralado.",
     "imagem": "/images/nhoque.jpg"
   },
   {
     "id": 12,
     "nome": "Bacalhoada",
     "categoria": "Pratos Principais",
-    "ingredientes": ["Bacalhau em lascas", "Batata", "Cebola", "Ovo cozido"],
-    "modoPreparo": "Asse o bacalhau com as batatas, cebola, e decore com ovos e azeitonas.",
+    "ingredientes": [
+      "800g de Bacalhau em lascas dessalgado",
+      "500g de Batata em rodelas grossas",
+      "2 Cebolas grandes em rodelas",
+      "4 Ovos cozidos cortados ao meio"
+    ],
+    "modoPreparo": "Em um refratário, intercale camadas de batata, cebola e bacalhau regadas com bastante azeite. Cubra com alumínio e leve ao forno a 180°C por 40 minutos. Finalize decorando com os ovos cozidos e azeitonas.",
     "imagem": "/images/bacalhoada.jpg"
   },
   {
     "id": 13,
     "nome": "Bobó de Camarão",
     "categoria": "Pratos Principais",
-    "ingredientes": ["Camarão", "Mandioca", "Leite de coco", "Azeite de dendê"],
-    "modoPreparo": "Refogue o camarão e misture com o creme de mandioca, coco e dendê.",
+    "ingredientes": [
+      "500g de Camarão limpo",
+      "500g de Mandioca cozida",
+      "200ml de Leite de coco",
+      "2 colheres de sopa de Azeite de dendê"
+    ],
+    "modoPreparo": "Bata a mandioca com o leite de coco no liquidificador. Refogue os camarões em fogo alto (200°C) por 3 minutos. Junte o creme de mandioca e o azeite de dendê. Abaixe o fogo e cozinhe por mais 10 minutos mexendo bem.",
     "imagem": "/images/bobo.jpg"
   },
   {
     "id": 14,
     "nome": "Costela no Bafo",
     "categoria": "Pratos Principais",
-    "ingredientes": ["Costela bovina", "Sal grosso", "Cebola", "Alho"],
-    "modoPreparo": "Asse a costela lentamente embrulhada em papel alumínio por 4 horas.",
+    "ingredientes": [
+      "1.5kg de Costela bovina ripa",
+      "3 colheres de sopa de Sal grosso",
+      "2 Cebolas cortadas em fatias",
+      "4 dentes de Alho picados"
+    ],
+    "modoPreparo": "Esfregue o alho e o sal grosso na carne. Embrulhe a costela com as cebolas em 3 voltas de papel alumínio bem selado. Asse em forno baixo a 160°C por 4 horas contínuas. Abra o alumínio com cuidado e asse por mais 15 min a 200°C para dourar.",
     "imagem": "/images/costela.jpg"
   },
   {
@@ -168,20 +193,25 @@
     "nome": "Panqueca de Carne",
     "categoria": "Pratos Principais",
     "ingredientes": [
-      "Massa líquida",
-      "Carne moída",
-      "Molho de tomate",
-      "Queijo"
+      "500ml de Massa líquida (leite, farinha, ovo)",
+      "400g de Carne moída refogada",
+      "300g de Molho de tomate",
+      "150g de Queijo muçarela ralado"
     ],
-    "modoPreparo": "Faça os discos, recheie, enrole e asse com molho por cima.",
+    "modoPreparo": "Faça os discos de massa em uma frigideira a 150°C (2 minutos por lado). Recheie com a carne, enrole e disponha em uma assadeira. Despeje o molho e o queijo por cima e leve ao forno a 180°C por 15 minutos para gratinar.",
     "imagem": "/images/panqueca.jpg"
   },
   {
     "id": 16,
     "nome": "Torta de Frango",
     "categoria": "Pratos Principais",
-    "ingredientes": ["Farinha", "Oleo", "Frango desfiado", "Milho"],
-    "modoPreparo": "Bata a massa, coloque metade na forma, recheie e cubra. Asse por 45 min.",
+    "ingredientes": [
+      "2 xícaras de Farinha de trigo",
+      "1/2 xícara de Óleo",
+      "500g de Frango desfiado temperado",
+      "1 lata (200g) de Milho verde"
+    ],
+    "modoPreparo": "Bata a massa (farinha, óleo, leite, ovos) no liquidificador. Despeje metade em uma forma untada, espalhe o recheio de frango com milho e cubra com o restante da massa. Asse em forno preaquecido a 200°C por 45 minutos até dourar.",
     "imagem": "/images/torta-frango.jpg"
   },
   {
@@ -189,29 +219,39 @@
     "nome": "Virado à Paulista",
     "categoria": "Pratos Principais",
     "ingredientes": [
-      "Tutu de feijão",
-      "Bisteca",
-      "Ovo frito",
-      "Couve",
-      "Banana milanesa"
+      "300g de Tutu de feijão",
+      "4 Bistecas de porco temperadas",
+      "4 Ovos fritos",
+      "1 maço de Couve refogada",
+      "4 Bananas à milanesa"
     ],
-    "modoPreparo": "Prepare os acompanhamentos e sirva tudo no mesmo prato.",
+    "modoPreparo": "Frite a bisteca em fogo médio (180°C) por 12 minutos. Frite a banana a 170°C até dourar e salteie a couve rapidamente (2 min). Prepare o tutu aquecendo em panela e frite o ovo. Sirva tudo simultaneamente em um prato largo.",
     "imagem": "/images/virado.jpg"
   },
   {
     "id": 18,
     "nome": "Salmão Grelhado",
     "categoria": "Pratos Principais",
-    "ingredientes": ["Filé de salmão", "Limão", "Azeite", "Sal"],
-    "modoPreparo": "Tempere o salmão e grelhe por 5 minutos de cada lado.",
+    "ingredientes": [
+      "4 Filés de salmão (aprox. 150g cada)",
+      "1 Limão (suco)",
+      "2 colheres de sopa de Azeite",
+      "Sal e pimenta a gosto"
+    ],
+    "modoPreparo": "Tempere o salmão com limão, sal e pimenta. Aqueça uma frigideira ou grelha a 200°C com azeite. Grelhe o peixe com a pele para baixo por 6 minutos, vire e grelhe o outro lado por mais 4 minutos. Sirva imediatamente.",
     "imagem": "/images/salmao.jpg"
   },
   {
     "id": 19,
     "nome": "Picadinho de Carne",
     "categoria": "Pratos Principais",
-    "ingredientes": ["Carne em cubos", "Cenoura", "Batata", "Caldo de carne"],
-    "modoPreparo": "Refogue a carne, junte os legumes e o caldo e cozinhe na pressão.",
+    "ingredientes": [
+      "500g de Carne em cubos (patinho ou coxão mole)",
+      "2 Cenouras em cubos",
+      "3 Batatas em cubos",
+      "500ml de Caldo de carne"
+    ],
+    "modoPreparo": "Na panela de pressão, sele a carne em fogo alto (200°C) por 5 minutos. Junte os legumes e o caldo. Feche a panela e cozinhe por 20 minutos após pegar pressão (temperatura de 120°C). Desligue e deixe a pressão sair naturalmente.",
     "imagem": "/images/picadinho.jpg"
   },
   {
@@ -219,26 +259,25 @@
     "nome": "Hambúrguer Artesanal",
     "categoria": "Pratos Principais",
     "ingredientes": [
-      "Carne moída (blend)",
-      "Pão brioche",
-      "Queijo cheddar",
-      "Bacon"
+      "600g de Carne moída (blend fraldinha e peito)",
+      "4 Pães tipo brioche",
+      "150g de Queijo cheddar em fatias",
+      "150g de Bacon em tiras"
     ],
-    "modoPreparo": "Grelhe o blend de carnes, derreta o queijo e monte no pão tostado.",
+    "modoPreparo": "Molde discos de 150g de carne. Em uma chapa ou frigideira bem quente (220°C), frite o bacon até ficar crocante. Grelhe a carne por 4 minutos de cada lado, adicionando o queijo no último minuto. Toste o pão e monte o hambúrguer.",
     "imagem": "/images/hamburguer.jpg"
   },
-
   {
     "id": 21,
     "nome": "Salada Caesar",
     "categoria": "Saladas",
     "ingredientes": [
-      "1 pé de alface romana",
+      "1 pé de alface romana lavado",
       "100g de croutons",
-      "Peito de frango grelhado",
-      "Molho Caesar"
+      "300g de Peito de frango grelhado e fatiado",
+      "80ml de Molho Caesar"
     ],
-    "modoPreparo": "Rasgue a alface, adicione o frango em tiras e os croutons. Regue com o molho Caesar e finalize com parmesão em lascas.",
+    "modoPreparo": "Grelhe o frango a 180°C por 12 minutos e deixe esfriar. Rasgue as folhas de alface, acomode o frango em tiras e os croutons por cima. Regue com o molho Caesar uniformemente e finalize com parmesão fresco. Tempo de preparo: 20 min.",
     "tempoPreparo": "20 min",
     "porcoes": "2 porções",
     "imagem": "/images/salada-caesar.jpg"
@@ -247,8 +286,13 @@
     "id": 22,
     "nome": "Salada Caprese",
     "categoria": "Saladas",
-    "ingredientes": ["Tomate", "Muçarela de búfala", "Manjericão", "Azeite"],
-    "modoPreparo": "Alterne fatias de tomate e queijo, tempere com manjericão e azeite.",
+    "ingredientes": [
+      "3 Tomates grandes fatiados",
+      "250g de Muçarela de búfala fatiada",
+      "1 maço de Manjericão fresco",
+      "3 colheres de sopa de Azeite extra virgem"
+    ],
+    "modoPreparo": "Em um prato raso, disponha alternadamente fatias de tomate e de muçarela. Distribua as folhas de manjericão por cima, tempere com sal, pimenta e regue generosamente com o azeite. Sirva frio (aprox. 10°C).",
     "imagem": "/images/caprese.jpg"
   },
   {
@@ -256,78 +300,117 @@
     "nome": "Salada Grega",
     "categoria": "Saladas",
     "ingredientes": [
-      "Pepino",
-      "Tomate",
-      "Cebola roxa",
-      "Queijo feta",
-      "Azeitona preta"
+      "2 Pepinos cortados em cubos",
+      "3 Tomates cortados em cubos",
+      "1 Cebola roxa fatiada",
+      "150g de Queijo feta em cubos",
+      "100g de Azeitona preta sem caroço"
     ],
-    "modoPreparo": "Corte os vegetais em cubos, adicione o queijo e tempere com azeite e orégano.",
+    "modoPreparo": "Misture os vegetais em um bowl grande. Adicione o queijo feta com cuidado para não desmanchar muito e as azeitonas. Tempere com azeite, suco de limão e orégano. Mantenha refrigerado (8°C) por 15 minutos antes de servir.",
     "imagem": "/images/grega.jpg"
   },
   {
     "id": 24,
     "nome": "Salada Tropical",
     "categoria": "Saladas",
-    "ingredientes": ["Mix de folhas", "Manga", "Morango", "Castanhas"],
-    "modoPreparo": "Misture as folhas com as frutas fatiadas e salpique castanhas.",
+    "ingredientes": [
+      "1 maço de Mix de folhas verdes",
+      "1 Manga cortada em tiras",
+      "200g de Morangos fatiados",
+      "50g de Castanhas de caju picadas"
+    ],
+    "modoPreparo": "Lave e seque bem as folhas. Disponha em uma saladeira, espalhe as frutas por cima para dar cor e salpique as castanhas de caju. Sirva fresco (abaixo de 15°C) com um molho à base de mostarda e mel à parte.",
     "imagem": "/images/tropical.jpg"
   },
   {
     "id": 25,
     "nome": "Salada de Maionese",
     "categoria": "Saladas",
-    "ingredientes": ["Batata", "Cenoura", "Vagem", "Maionese"],
-    "modoPreparo": "Cozinhe os legumes em cubos, espere esfriar e misture com maionese.",
+    "ingredientes": [
+      "3 Batatas médias descascadas e em cubos",
+      "2 Cenouras em cubos",
+      "150g de Vagem picada",
+      "200g de Maionese tradicional"
+    ],
+    "modoPreparo": "Cozinhe os legumes em água fervente (100°C) por cerca de 15 minutos até ficarem macios, mas firmes. Escorra e passe em água fria para interromper o cozimento. Misture a maionese com os legumes frios e leve à geladeira por 1 hora.",
     "imagem": "/images/maionese.jpg"
   },
   {
     "id": 26,
     "nome": "Salada de Grão de Bico",
     "categoria": "Saladas",
-    "ingredientes": ["Grão de bico", "Pimentão", "Cebola", "Salsa"],
-    "modoPreparo": "Misture o grão de bico cozido com os vegetais picados e tempere a gosto.",
+    "ingredientes": [
+      "300g de Grão de bico cozido e escorrido",
+      "1 Pimentão vermelho em cubinhos",
+      "1 Cebola pequena picada",
+      "1/2 maço de Salsa fresca picada"
+    ],
+    "modoPreparo": "Certifique-se de que o grão de bico esteja em temperatura ambiente. Misture com os vegetais e a salsa em uma tigela. Tempere com sal, pimenta, azeite e vinagre a gosto. Deixe marinar na geladeira (5°C) por 20 minutos.",
     "imagem": "/images/grao-de-bico.jpg"
   },
   {
     "id": 27,
     "nome": "Coleslaw (Repolho)",
     "categoria": "Saladas",
-    "ingredientes": ["Repolho verde", "Cenoura ralada", "Maionese", "Vinagre"],
-    "modoPreparo": "Fatie o repolho fino, misture com cenoura e envolva no molho de maionese.",
+    "ingredientes": [
+      "1/2 Repolho verde cortado bem fino",
+      "2 Cenouras raladas",
+      "150g de Maionese",
+      "2 colheres de sopa de Vinagre de maçã"
+    ],
+    "modoPreparo": "Em uma tigela, misture a maionese, o vinagre, uma pitada de sal e açúcar para criar o molho. Incorpore o repolho e a cenoura, envolvendo bem todos os fios. Mantenha sob refrigeração (4°C) por pelo menos 30 minutos antes de servir.",
     "imagem": "/images/coleslaw.jpg"
   },
   {
     "id": 28,
     "nome": "Salada Niçoise",
     "categoria": "Saladas",
-    "ingredientes": ["Atum", "Vagem", "Ovo cozido", "Batata bolinha"],
-    "modoPreparo": "Disponha os ingredientes cozidos sobre uma cama de alface e tempere.",
+    "ingredientes": [
+      "2 latas (240g) de Atum sólido escorrido",
+      "150g de Vagem cozida al dente",
+      "3 Ovos cozidos fatiados",
+      "300g de Batata bolinha cozida"
+    ],
+    "modoPreparo": "Cozinhe a vagem e as batatas a 100°C por 12-15 minutos. Em uma travessa larga, monte uma cama de folhas (opcional) e disponha os ingredientes de forma setorizada: atum, vagem, batatas e os ovos. Tempere com vinagrete e sirva frio.",
     "imagem": "/images/nicoise.jpg"
   },
   {
     "id": 29,
     "nome": "Salada de Beterraba",
     "categoria": "Saladas",
-    "ingredientes": ["Beterraba", "Laranja", "Azeite", "Sal"],
-    "modoPreparo": "Cozinhe e corte a beterraba, misture com gomos de laranja.",
+    "ingredientes": [
+      "3 Beterrabas grandes lavadas",
+      "2 Laranjas em gomos sem pele",
+      "3 colheres de sopa de Azeite",
+      "Sal e pimenta a gosto"
+    ],
+    "modoPreparo": "Cozinhe as beterrabas com casca em água fervente (100°C) ou pressão por 30 minutos. Descasque, corte em rodelas ou cubos e deixe esfriar. Misture com os gomos de laranja, tempere com azeite e sal, servindo gelado.",
     "imagem": "/images/beterraba.jpg"
   },
   {
     "id": 30,
     "nome": "Salada Waldorf",
     "categoria": "Saladas",
-    "ingredientes": ["Maçã verde", "Aipo", "Nozes", "Iogurte natural"],
-    "modoPreparo": "Corte tudo em cubos e misture com o iogurte.",
+    "ingredientes": [
+      "2 Maçãs verdes em cubos pequenos",
+      "2 talos de Aipo finamente fatiados",
+      "50g de Nozes picadas",
+      "1 pote (170g) de Iogurte natural"
+    ],
+    "modoPreparo": "Mergulhe rapidamente os cubos de maçã em água com limão para não oxidar. Escorra e misture com o aipo e as nozes. Envolva tudo suavemente com o iogurte natural temperado com sal e pimenta. Sirva gelado (5°C).",
     "imagem": "/images/waldorf.jpg"
   },
-
   {
     "id": 31,
     "nome": "Pudim de Leite",
     "categoria": "Sobremesas",
-    "ingredientes": ["Leite condensado", "Leite", "Ovos", "Açúcar (caramelo)"],
-    "modoPreparo": "Faça a calda, bata os líquidos, asse em banho-maria e desenforme frio.",
+    "ingredientes": [
+      "1 lata (395g) de Leite condensado",
+      "300ml de Leite integral",
+      "3 Ovos inteiros",
+      "1 xícara de Açúcar (para o caramelo)"
+    ],
+    "modoPreparo": "Derreta o açúcar na forma em fogo baixo (aprox. 150°C) até dourar e caramelizar. Bata os demais ingredientes no liquidificador. Despeje na forma caramelizada, cubra com papel alumínio e asse em banho-maria a 180°C por 90 minutos. Desenforme gelado.",
     "imagem": "/images/pudim.jpg"
   },
   {
@@ -335,28 +418,38 @@
     "nome": "Brigadeiro Gourmet",
     "categoria": "Sobremesas",
     "ingredientes": [
-      "Leite condensado",
-      "Chocolate em pó",
-      "Manteiga",
-      "Granulado"
+      "1 lata (395g) de Leite condensado",
+      "3 colheres de sopa de Chocolate em pó 50%",
+      "1 colher de sopa de Manteiga",
+      "100g de Granulado belga"
     ],
-    "modoPreparo": "Cozinhe até soltar do fundo da panela, enrole e passe no granulado.",
+    "modoPreparo": "Em uma panela de fundo grosso, cozinhe o leite condensado, chocolate e manteiga em fogo baixo (aprox. 90°C), mexendo sem parar, por 12 a 15 minutos até soltar do fundo. Deixe esfriar completamente, enrole e passe no granulado.",
     "imagem": "/images/brigadeiro.jpg"
   },
   {
     "id": 33,
     "nome": "Mousse de Maracujá",
     "categoria": "Sobremesas",
-    "ingredientes": ["Leite condensado", "Creme de leite", "Suco de maracujá"],
-    "modoPreparo": "Bata tudo no liquidificador e leve à geladeira por 4 horas.",
+    "ingredientes": [
+      "1 lata (395g) de Leite condensado",
+      "1 lata (300g) de Creme de leite sem soro",
+      "250ml de Suco concentrado de maracujá"
+    ],
+    "modoPreparo": "Coloque todos os ingredientes no liquidificador e bata por 3 minutos até obter uma mistura homogênea e aerada. Distribua em taças individuais ou travessa e leve à geladeira (aprox. 4°C) por no mínimo 4 horas antes de servir.",
     "imagem": "/images/mousse-maracuja.jpg"
   },
   {
     "id": 34,
     "nome": "Bolo de Cenoura",
     "categoria": "Sobremesas",
-    "ingredientes": ["Cenoura", "Óleo", "Ovos", "Farinha", "Chocolate"],
-    "modoPreparo": "Bata os líquidos com a cenoura, misture os secos, asse e cubra com chocolate.",
+    "ingredientes": [
+      "3 Cenouras médias picadas",
+      "1 xícara de Óleo",
+      "3 Ovos",
+      "2 xícaras de Farinha de trigo",
+      "200g de Chocolate para cobertura"
+    ],
+    "modoPreparo": "Bata as cenouras, ovos e óleo no liquidificador. Em uma tigela, misture esse líquido com a farinha e açúcar. Despeje em forma untada e asse em forno a 180°C por 45 minutos. Derreta o chocolate a 45°C e cubra o bolo morno.",
     "imagem": "/images/bolo-cenoura.jpg"
   },
   {
@@ -364,12 +457,12 @@
     "nome": "Torta de Limão",
     "categoria": "Sobremesas",
     "ingredientes": [
-      "Biscoito maisena",
-      "Manteiga",
-      "Leite condensado",
-      "Limão"
+      "1 pacote (200g) de Biscoito maisena triturado",
+      "100g de Manteiga derretida",
+      "1 lata (395g) de Leite condensado",
+      "100ml de Suco de limão taiti"
     ],
-    "modoPreparo": "Faça a base com biscoito, asse, coloque o creme de limão e leve gelar.",
+    "modoPreparo": "Misture o biscoito com a manteiga e forre uma forma de fundo removível. Asse a base a 180°C por 10 minutos. Misture o leite condensado com o suco de limão até encorpar. Despeje sobre a massa fria e leve à geladeira por 3 horas.",
     "imagem": "/images/torta-limao.jpg"
   },
   {
@@ -377,12 +470,12 @@
     "nome": "Pavê de Chocolate",
     "categoria": "Sobremesas",
     "ingredientes": [
-      "Biscoito champanhe",
-      "Leite condensado",
-      "Chocolate",
-      "Creme de leite"
+      "1 pacote (200g) de Biscoito champanhe",
+      "1 lata (395g) de Leite condensado",
+      "200g de Chocolate meio amargo picado",
+      "1 lata (300g) de Creme de leite"
     ],
-    "modoPreparo": "Alterne camadas de creme e biscoito umedecido, finalize com chocolate.",
+    "modoPreparo": "Faça um creme branco cozendo o leite condensado e metade do creme de leite. Derreta o chocolate a 45°C e misture o restante do creme de leite. Em uma travessa, alterne camadas de creme, biscoito umedecido em leite e o creme de chocolate. Gele por 2 horas.",
     "imagem": "/images/pave.jpg"
   },
   {
@@ -390,13 +483,13 @@
     "nome": "Brownie",
     "categoria": "Sobremesas",
     "ingredientes": [
-      "Chocolate meio amargo",
-      "Manteiga",
-      "Açúcar",
-      "Farinha",
-      "Ovos"
+      "200g de Chocolate meio amargo",
+      "100g de Manteiga",
+      "1 xícara de Açúcar",
+      "1 xícara de Farinha de trigo",
+      "3 Ovos inteiros"
     ],
-    "modoPreparo": "Derreta chocolate e manteiga, misture o resto e asse por 25 minutos.",
+    "modoPreparo": "Derreta o chocolate com a manteiga em banho-maria (60°C). Em outra tigela, bata levemente os ovos com açúcar e incorpore ao chocolate. Por fim, adicione a farinha. Asse em forma forrada com papel manteiga a 180°C por 25 minutos.",
     "imagem": "/images/brownie.jpg"
   },
   {
@@ -404,28 +497,38 @@
     "nome": "Tiramisu",
     "categoria": "Sobremesas",
     "ingredientes": [
-      "Queijo mascarpone",
-      "Café forte",
-      "Biscoito champanhe",
-      "Cacau"
+      "250g de Queijo mascarpone",
+      "200ml de Café forte frio",
+      "1 pacote de Biscoito champanhe",
+      "50g de Cacau em pó"
     ],
-    "modoPreparo": "Bata o creme, monte com biscoitos embebidos no café e polvilhe cacau.",
+    "modoPreparo": "Bata o mascarpone com gemas e açúcar até virar um creme fofo. Mergulhe rapidamente os biscoitos no café e forre o fundo de uma travessa. Cubra com metade do creme, repita as camadas e leve à geladeira por 4 horas. Polvilhe cacau antes de servir.",
     "imagem": "/images/tiramisu.jpg"
   },
   {
     "id": 39,
     "nome": "Quindim",
     "categoria": "Sobremesas",
-    "ingredientes": ["Gemas", "Açúcar", "Coco ralado", "Manteiga"],
-    "modoPreparo": "Misture os ingredientes, coloque em forminhas untadas e asse em banho-maria.",
+    "ingredientes": [
+      "10 Gemas de ovo peneiradas",
+      "200g de Açúcar refinado",
+      "100g de Coco ralado úmido",
+      "1 colher de sopa de Manteiga"
+    ],
+    "modoPreparo": "Misture delicadamente as gemas, o açúcar, a manteiga amolecida e o coco. Despeje em forminhas muito bem untadas com manteiga e açúcar. Asse em banho-maria no forno a 180°C por 40 minutos até a superfície dourar levemente.",
     "imagem": "/images/quindim.jpg"
   },
   {
     "id": 40,
     "nome": "Cheesecake de Frutas",
     "categoria": "Sobremesas",
-    "ingredientes": ["Cream cheese", "Biscoito", "Frutas vermelhas", "Açúcar"],
-    "modoPreparo": "Faça a base, bata o creme, asse e cubra com geleia de frutas.",
+    "ingredientes": [
+      "300g de Cream cheese",
+      "1 pacote (200g) de Biscoito tipo maizena",
+      "200g de Frutas vermelhas mistas",
+      "1/2 xícara de Açúcar"
+    ],
+    "modoPreparo": "Processe o biscoito com manteiga e asse a base a 180°C por 10 minutos. Bata o cream cheese com açúcar e ovos, despeje na base e asse a 160°C por 40 minutos. Ferva as frutas vermelhas com um pouco de açúcar até formar calda e cubra o doce frio.",
     "imagem": "/images/cheesecake.jpg"
   },
   {
@@ -433,11 +536,11 @@
     "nome": "Sorvete Caseiro",
     "categoria": "Sobremesas",
     "ingredientes": [
-      "Leite condensado",
-      "Creme de leite fresco",
-      "Essência de baunilha"
+      "1 lata (395g) de Leite condensado",
+      "400g de Creme de leite fresco muito gelado",
+      "1 colher de chá de Essência de baunilha"
     ],
-    "modoPreparo": "Bata o creme em ponto de chantilly e misture com o leite condensado. Congele.",
+    "modoPreparo": "Bata o creme de leite fresco na batedeira até ponto de chantilly firme. Incorpore o leite condensado e a baunilha delicadamente com uma espátula. Despeje em um pote com tampa e leve ao freezer (-18°C) por no mínimo 6 horas.",
     "imagem": "/images/sorvete.jpg"
   },
   {
@@ -445,20 +548,25 @@
     "nome": "Cocada de Forno",
     "categoria": "Sobremesas",
     "ingredientes": [
-      "Coco ralado fresco",
-      "Leite condensado",
-      "Ovos",
-      "Manteiga"
+      "200g de Coco ralado fresco",
+      "1 lata (395g) de Leite condensado",
+      "3 Ovos",
+      "1 colher de sopa de Manteiga"
     ],
-    "modoPreparo": "Misture tudo, coloque em um refratário e asse até dourar.",
+    "modoPreparo": "Em um recipiente, misture o coco ralado, o leite condensado, os ovos levemente batidos e a manteiga amolecida. Transfira a mistura para um refratário pequeno e leve ao forno preaquecido a 180°C por 30 minutos, até ficar dourada por cima.",
     "imagem": "/images/cocada.jpg"
   },
   {
     "id": 43,
     "nome": "Arroz Doce",
     "categoria": "Sobremesas",
-    "ingredientes": ["Arroz", "Leite", "Açúcar", "Canela em pau"],
-    "modoPreparo": "Cozinhe o arroz no leite com açúcar até ficar cremoso. Salpique canela.",
+    "ingredientes": [
+      "1 xícara de Arroz branco",
+      "1 litro de Leite integral",
+      "1 xícara de Açúcar",
+      "2 unidades de Canela em pau"
+    ],
+    "modoPreparo": "Cozinhe o arroz em água até secar e amaciar. Adicione o leite, o açúcar e a canela em pau. Cozinhe em fogo médio baixo (cerca de 90°C), mexendo sempre, por 20 a 30 minutos até o caldo reduzir e ficar muito cremoso.",
     "imagem": "/images/arroz-doce.jpg"
   },
   {
@@ -466,133 +574,203 @@
     "nome": "Canjica",
     "categoria": "Sobremesas",
     "ingredientes": [
-      "Milho para canjica",
-      "Leite",
-      "Leite de coco",
-      "Amendoim"
+      "250g de Milho para canjica branco",
+      "1 litro de Leite integral",
+      "200ml de Leite de coco",
+      "100g de Amendoim torrado e triturado"
     ],
-    "modoPreparo": "Cozinhe a canjica, adicione os leites e ferva até engrossar.",
+    "modoPreparo": "Deixe o milho de molho durante a noite. Cozinhe na panela de pressão com água a 120°C por 40 minutos. Escorra a água, adicione os leites e açúcar a gosto, fervendo em fogo médio (100°C) por 20 min até engrossar. Sirva com amendoim.",
     "imagem": "/images/canjica.jpg"
   },
   {
     "id": 45,
     "nome": "Manjar de Coco",
     "categoria": "Sobremesas",
-    "ingredientes": ["Leite", "Amido de milho", "Leite de coco", "Ameixas"],
-    "modoPreparo": "Cozinhe o creme de coco, coloque na forma e sirva com calda de ameixa.",
+    "ingredientes": [
+      "1 litro de Leite integral",
+      "4 colheres de sopa de Amido de milho",
+      "200ml de Leite de coco",
+      "150g de Ameixas em calda"
+    ],
+    "modoPreparo": "Dissolva o amido em um pouco do leite frio. Leve ao fogo médio (90°C) com o restante do leite, leite de coco e açúcar, mexendo sem parar até engrossar (aprox. 15 minutos). Despeje em forma molhada e gele por 4 horas. Desenforme e jogue a calda.",
     "imagem": "/images/manjar.jpg"
   },
   {
     "id": 46,
     "nome": "Petit Gâteau",
     "categoria": "Sobremesas",
-    "ingredientes": ["Chocolate", "Manteiga", "Ovos", "Farinha"],
-    "modoPreparo": "Asse em forno alto por exatos 7 minutos para o centro ficar líquido.",
+    "ingredientes": [
+      "200g de Chocolate meio amargo",
+      "100g de Manteiga sem sal",
+      "3 Ovos inteiros + 3 Gemas",
+      "2 colheres de sopa de Farinha de trigo"
+    ],
+    "modoPreparo": "Derreta o chocolate e a manteiga. Misture os ovos com meia xícara de açúcar e incorpore o chocolate. Junte a farinha. Coloque em forminhas untadas e polvilhadas com cacau. Asse a 220°C por exatos 7 a 8 minutos, garantindo o centro líquido.",
     "imagem": "/images/petit-gateau.jpg"
   },
   {
     "id": 47,
     "nome": "Churros",
     "categoria": "Sobremesas",
-    "ingredientes": ["Farinha", "Água", "Doce de leite", "Açúcar com canela"],
-    "modoPreparo": "Cozinhe a massa, frite, passe na canela e recheie.",
+    "ingredientes": [
+      "2 xícaras de Farinha de trigo",
+      "2 xícaras de Água",
+      "200g de Doce de leite",
+      "Açúcar refinado e canela para envolver"
+    ],
+    "modoPreparo": "Ferva a água com 2 colheres de manteiga e uma pitada de sal. Jogue a farinha de uma vez (a 100°C) e mexa até desgrudar da panela. Molde na máquina de churros e frite em óleo quente (180°C) até dourar. Passe no açúcar/canela e recheie.",
     "imagem": "/images/churros.jpg"
   },
   {
     "id": 48,
     "nome": "Torta de Maçã",
     "categoria": "Sobremesas",
-    "ingredientes": ["Farinha", "Manteiga", "Maçãs", "Canela"],
-    "modoPreparo": "Forre a assadeira com a massa, recheie com as maçãs e asse.",
+    "ingredientes": [
+      "300g de Farinha de trigo",
+      "150g de Manteiga gelada",
+      "4 Maçãs tipo fuji fatiadas",
+      "1 colher de chá de Canela em pó"
+    ],
+    "modoPreparo": "Faça uma massa podre (farinha, manteiga, 1 ovo) e forre uma assadeira. Recheie com as maçãs fatiadas e polvilhadas com açúcar e canela. Cubra com tiras de massa. Asse em forno preaquecido a 180°C por 40 minutos até a crosta dourar.",
     "imagem": "/images/torta-maca.jpg"
   },
   {
     "id": 49,
     "nome": "Beijinho",
     "categoria": "Sobremesas",
-    "ingredientes": ["Leite condensado", "Coco ralado", "Manteiga", "Cravos"],
-    "modoPreparo": "Cozinhe até desgrudar da panela, enrole e decore com cravo.",
+    "ingredientes": [
+      "1 lata (395g) de Leite condensado",
+      "100g de Coco ralado sem açúcar",
+      "1 colher de sopa de Manteiga",
+      "Cravos-da-índia para decorar"
+    ],
+    "modoPreparo": "Cozinhe o leite condensado, a manteiga e o coco ralado em panela de fundo grosso, em fogo baixo (aprox. 90°C), mexendo sempre. Após cerca de 15 minutos, quando a massa desgrudar da panela, deixe esfriar, enrole, passe no açúcar e decore com cravo.",
     "imagem": "/images/beijinho.jpg"
   },
   {
     "id": 50,
     "nome": "Goiabada com Queijo (Romeu e Julieta)",
     "categoria": "Sobremesas",
-    "ingredientes": ["Queijo minas frescal", "Goiabada cascão"],
-    "modoPreparo": "Fatie o queijo e a goiabada. Monte as fatias juntas.",
+    "ingredientes": [
+      "300g de Queijo minas frescal",
+      "300g de Goiabada cascão em barra"
+    ],
+    "modoPreparo": "Corte o queijo minas e a goiabada em fatias de espessura semelhante (cerca de 1 cm). Monte cada porção colocando uma fatia de goiabada sobre uma de queijo. Sirva imediatamente em temperatura ambiente ou levemente refrigerado (15°C).",
     "imagem": "/images/romeu-julieta.jpg"
   },
-
   {
     "id": 51,
     "nome": "Caipirinha Clássica",
     "categoria": "Bebidas",
-    "ingredientes": ["Cachaça", "Limão taiti", "Açúcar", "Gelo"],
-    "modoPreparo": "Amasse o limão com açúcar no copo, adicione gelo e cachaça.",
+    "ingredientes": [
+      "50ml de Cachaça prata",
+      "1 Limão taiti fatiado (sem o miolo branco)",
+      "2 colheres de sopa de Açúcar",
+      "5 pedras de Gelo"
+    ],
+    "modoPreparo": "Em um copo baixo, macere o limão com o açúcar suavemente para extrair o suco sem amargar a casca. Adicione as pedras de gelo até o topo, despeje a cachaça e mexa vigorosamente com uma colher. Preparo em 3 minutos.",
     "imagem": "/images/caipirinha.jpg"
   },
   {
     "id": 52,
     "nome": "Suco Verde",
     "categoria": "Bebidas",
-    "ingredientes": ["Couve", "Maçã verde", "Gengibre", "Limão"],
-    "modoPreparo": "Bata tudo no liquidificador com água gelada e coe.",
+    "ingredientes": [
+      "2 folhas grandes de Couve manteiga",
+      "1 Maçã verde picada sem sementes",
+      "1 pedaço (2cm) de Gengibre descascado",
+      "Suco de 1 Limão"
+    ],
+    "modoPreparo": "Coloque todos os ingredientes no liquidificador junto com 200ml de água bem gelada. Bata em potência máxima por 2 minutos. Coe a mistura, se preferir uma textura mais lisa, e sirva imediatamente bem gelado.",
     "imagem": "/images/suco-verde.jpg"
   },
   {
     "id": 53,
     "nome": "Limonada Suíça",
     "categoria": "Bebidas",
-    "ingredientes": ["Limão com casca", "Leite condensado", "Água", "Gelo"],
-    "modoPreparo": "Bata rapidamente para não amargar, coe e sirva.",
+    "ingredientes": [
+      "2 Limões taiti lavados e cortados em quatro (com casca)",
+      "1/2 lata de Leite condensado",
+      "500ml de Água gelada",
+      "Cubos de Gelo a gosto"
+    ],
+    "modoPreparo": "Retire o filete branco central dos limões. Bata rapidamente no liquidificador os limões com a água (apenas pulsar de 3 a 5 vezes) para não amargar. Coe imediatamente o líquido, retorne ao liquidificador, adicione o leite condensado e gelo, batendo por 1 min.",
     "imagem": "/images/limonada.jpg"
   },
   {
     "id": 54,
     "nome": "Vitamina de Banana",
     "categoria": "Bebidas",
-    "ingredientes": ["Banana", "Leite", "Aveia", "Mel"],
-    "modoPreparo": "Bata todos os ingredientes no liquidificador.",
+    "ingredientes": [
+      "2 Bananas nanicas maduras",
+      "300ml de Leite integral gelado",
+      "2 colheres de sopa de Aveia em flocos",
+      "1 colher de sopa de Mel"
+    ],
+    "modoPreparo": "Descasque as bananas e quebre-as diretamente no copo do liquidificador. Adicione o leite gelado, a aveia e o mel. Bata em velocidade média por cerca de 2 minutos até que não haja mais pedaços. Sirva em seguida em um copo alto.",
     "imagem": "/images/vitamina.jpg"
   },
   {
     "id": 55,
     "nome": "Chá Gelado de Pêssego",
     "categoria": "Bebidas",
-    "ingredientes": ["Chá preto", "Pêssego em calda", "Gelo"],
-    "modoPreparo": "Faça o chá, deixe esfriar e misture com a calda e pedaços de pêssego.",
+    "ingredientes": [
+      "500ml de Chá preto recém-preparado",
+      "2 Pêssegos em calda picados + 3 colheres da calda",
+      "Bastante Gelo"
+    ],
+    "modoPreparo": "Faça a infusão do chá preto em água quente (90°C) por 5 minutos e deixe esfriar. Bata metade dos pêssegos com o chá e a calda no liquidificador. Coe, coloque em uma jarra com os pedaços restantes de pêssego e gelo.",
     "imagem": "/images/cha-gelado.jpg"
   },
   {
     "id": 56,
     "nome": "Cappuccino Cremoso",
     "categoria": "Bebidas",
-    "ingredientes": ["Café solúvel", "Leite em pó", "Cacau em pó", "Canela"],
-    "modoPreparo": "Misture os pós e adicione água quente quando for beber.",
+    "ingredientes": [
+      "50g de Café solúvel",
+      "200g de Leite em pó",
+      "3 colheres de sopa de Cacau em pó",
+      "1 colher de chá de Canela em pó"
+    ],
+    "modoPreparo": "Bata o café solúvel no liquidificador para afinar o pó. Misture muito bem com o leite em pó, o cacau e a canela. Armazene em um pote. Na hora do preparo, adicione 2 colheres da mistura para cada 100ml de água quase fervente (90°C).",
     "imagem": "/images/cappuccino.jpg"
   },
   {
     "id": 57,
     "nome": "Piña Colada",
     "categoria": "Bebidas",
-    "ingredientes": ["Rum", "Suco de abacaxi", "Leite de coco", "Gelo"],
-    "modoPreparo": "Bata tudo na coqueteleira ou liquidificador.",
+    "ingredientes": [
+      "50ml de Rum branco",
+      "100ml de Suco concentrado de abacaxi",
+      "50ml de Leite de coco",
+      "Gelo quebrado"
+    ],
+    "modoPreparo": "Em uma coqueteleira ou liquidificador, junte o rum, o suco de abacaxi, o leite de coco e uma boa quantidade de gelo quebrado. Bata por 30 segundos até ficar espumoso e gelado. Sirva em taça bojuda decorada com abacaxi.",
     "imagem": "/images/pina-colada.jpg"
   },
   {
     "id": 58,
     "nome": "Água Saborizada",
     "categoria": "Bebidas",
-    "ingredientes": ["Água com gás", "Hortelã", "Rodelas de limão", "Morango"],
-    "modoPreparo": "Coloque as frutas e ervas na água e deixe descansar por 15 minutos.",
+    "ingredientes": [
+      "500ml de Água com gás",
+      "1 ramo de Hortelã fresco",
+      "3 rodelas de Limão siciliano",
+      "3 Morangos fatiados"
+    ],
+    "modoPreparo": "Lave bem as frutas e ervas. Coloque os morangos, limão e hortelã no fundo de uma jarra ou copo. Amasse muito levemente para liberar os aromas e adicione a água com gás. Deixe na geladeira (4°C) por 15 minutos para apurar o sabor.",
     "imagem": "/images/agua-saborizada.jpg"
   },
   {
     "id": 59,
     "nome": "Milkshake de Morango",
     "categoria": "Bebidas",
-    "ingredientes": ["Sorvete de morango", "Leite", "Calda de morango"],
-    "modoPreparo": "Bata o sorvete com pouco leite, decore o copo com calda.",
+    "ingredientes": [
+      "3 bolas generosas de Sorvete de morango",
+      "100ml de Leite integral bem gelado",
+      "2 colheres de sopa de Calda de morango para taça"
+    ],
+    "modoPreparo": "No liquidificador, coloque o sorvete de morango e o leite (adicione menos leite se quiser mais espesso) e bata rapidamente por apenas 15 segundos. Decore o interior do copo com a calda e despeje a bebida. Sirva com canudo largo.",
     "imagem": "/images/milkshake.jpg"
   },
   {
@@ -600,12 +778,12 @@
     "nome": "Chocolate Quente",
     "categoria": "Bebidas",
     "ingredientes": [
-      "Leite",
-      "Chocolate em pó",
-      "Creme de leite",
-      "Amido de milho"
+      "300ml de Leite integral",
+      "3 colheres de sopa de Chocolate em pó 50%",
+      "2 colheres de sopa de Creme de leite",
+      "1 colher de chá de Amido de milho"
     ],
-    "modoPreparo": "Ferva o leite com amido e chocolate, desligue e adicione creme de leite.",
+    "modoPreparo": "Dissolva o amido e o chocolate em um pouco de leite frio. Leve tudo ao fogo médio (cerca de 90°C), mexendo sempre até encorpar e levantar fervura (aprox. 8 minutos). Desligue o fogo, misture o creme de leite e sirva imediatamente bem quente.",
     "imagem": "/images/chocolate-quente.jpg"
   }
 ]
