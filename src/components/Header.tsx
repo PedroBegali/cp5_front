@@ -1,5 +1,5 @@
 import { Link, useLocation } from "react-router-dom";
-import { ChefHat, Home, UtensilsCrossed } from "lucide-react";
+import { ChefHat, Home, UtensilsCrossed, LogIn } from "lucide-react";
 
 const Header = () => {
   const location = useLocation();
@@ -41,6 +41,18 @@ const Header = () => {
           >
             <UtensilsCrossed className="w-4 h-4" />
             <span className="hidden sm:inline">Sugerir Receita</span>
+          </Link>
+
+          <Link
+            to="/login"
+            className={`flex items-center gap-2 px-4 py-2.5 rounded-full font-sans font-bold transition-all duration-300 ${
+              isActive("/login")
+                ? "bg-orange-600 text-white shadow-md shadow-orange-200"
+                : "text-gray-600 hover:bg-orange-50 hover:text-orange-600"
+            }`}
+          >
+            <LogIn className="w-4 h-4" />
+            <span className="hidden sm:inline">Entrar</span>
           </Link>
         </nav>
       </div>

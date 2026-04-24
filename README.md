@@ -1,73 +1,25 @@
-# React + TypeScript + Vite
+# 🧑‍🍳 Sabores do Front
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Integrantes
+Lucas de Souza Dudena - RM567600
+Pedro Begali Campos - RM567478
 
-Currently, two official plugins are available:
+## 🎯 Objetivo do Projeto
+O **Sabores do Front** é uma aplicação web desenvolvida como parte da avaliação do Checkpoint 05. O objetivo principal do projeto é aplicar e consolidar os conhecimentos adquiridos na disciplina de Front-end, construindo um catálogo de receitas dinâmico e interativo. A aplicação simula o consumo de uma API através de um arquivo JSON local, possui navegação fluida entre páginas (SPA) e conta com um formulário validado para interação com o usuário.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Funcionalidades
+* **Catálogo de Receitas:** Exibição de 60 receitas em um layout de grid totalmente responsivo, adaptando-se a celulares, tablets e computadores.
+* **Filtros e Busca Dinâmica:** Permite aos usuários pesquisar receitas pelo nome e filtrar os resultados simultaneamente por categorias (Saladas, Pratos Principais, Sobremesas e Bebidas).
+* **Detalhes em Modal:** Ao clicar em um card de receita, um modal moderno (com efeito glassmorphism) se sobrepõe à tela exibindo a imagem ampliada, lista de ingredientes e o modo de preparo, sem recarregar a página.
+* **Formulário de Sugestões:** Uma página dedicada para os usuários enviarem receitas próprias. Conta com validação avançada de campos (obrigatoriedade e formato de e-mail) e limpeza automática (reset) após o envio bem-sucedido.
 
-## React Compiler
+## 🚀 Tecnologias Utilizadas
+Este projeto foi construído "do zero" utilizando as seguintes tecnologias e bibliotecas:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* **[React](https://reactjs.org/) + [Vite](https://vitejs.dev/):** Estrutura base da aplicação, garantindo componentização e um servidor de desenvolvimento ultrarrápido.
+* **[TypeScript](https://www.typescriptlang.org/):** Tipagem estática para criar interfaces (como `Recipe` e `FormSugestao`), garantindo um código mais seguro, escalável e livre de erros inesperados.
+* **[Tailwind CSS](https://tailwindcss.com/):** Framework utilitário usado para toda a estilização, responsividade e animações da interface.
+* **[React Router DOM](https://reactrouter.com/):** Gerenciamento das rotas internas (Navegação entre a "Home" e a página de "Sugerir Receita").
+* **[React Hook Form](https://react-hook-form.com/):** Biblioteca focada em performance utilizada para o controle e validação inteligente do formulário.
+* **[Lucide React](https://lucide.dev/):** Conjunto de ícones consistentes e modernos utilizados no Header.
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
-
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
-
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
-
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
-
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
-
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
